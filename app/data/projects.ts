@@ -11,13 +11,35 @@ export type Project = {
 
 export const projects: Project[] = [
   {
+    id: "Portfoliomarcos",
+    title: "Projeto Portfólio React Marcos",
+    image: "/img/marcos.png",
+    video: "/videos/portfolio-marcos.mp4",
+    demoUrl: "https://portfolio-nextjs-marcos-bizzarri.vercel.app/",
+    repoUrl: "https://github.com/MarcosBizzarri/Portfolio-Marcos-Bizzarri-React",
+    description:
+      "O projeto Portfólio é uma aplicação web desenvolvida em React.",
+    techIcons: ["/languages/react.svg", "/languages/css.svg"],
+  },
+  {
+    id: "portfoliojessica",
+    title: "Projeto Portfólio Jessica Logística",
+    image: "/img/jessica.png",
+    video: "/videos/portfolio-jessica.mp4",
+    demoUrl: "https://portfolio-jessica-logistica.vercel.app/",
+    repoUrl: "https://github.com/MarcosBizzarri/portfolio-jessica-logistica",
+    description:
+      "O projeto Portfólio Jessica é uma aplicação web desenvolvida em Nextjs.",
+    techIcons: ["/languages/next.png", "/languages/tailwind.png"],
+  },
+  {
     id: "treinodiario",
     title: "Projeto Treinos diários",
     image: "/img/treinos.png",
     video: "/videos/treino.mp4",
     demoUrl: "https://training-evolution.vercel.app",
     description:
-      "O projeto Treinos diários é uma aplicação web desenvolvida em React.",
+      "O projeto Treinos diários é uma aplicação web desenvolvida em Nextjs",
     techIcons: ["/languages/next.png", "/languages/tailwind.png"],
   },
   {
@@ -27,7 +49,7 @@ export const projects: Project[] = [
     video: "/videos/controlefinanceiro.mp4",
     demoUrl: "https://controle-financeiro-ten-alpha.vercel.app/",
     description:
-      "O projeto Controle Financeiro é uma aplicação web desenvolvida em React.",
+      "O projeto Controle Financeiro é uma aplicação web desenvolvida em Nextjs.",
     techIcons: ["/languages/next.png", "/languages/tailwind.png"],
   },
   {
