@@ -15,7 +15,7 @@ export const projects: Project[] = [
     title: "Projeto Portfólio React Marcos",
     image: "/img/marcos.png",
     video: "/videos/portfolio-marcos.mp4",
-    demoUrl: "https://portfolio-nextjs-marcos-bizzarri.vercel.app/",
+    demoUrl: "https://portfolio-marcosbizzarri.web.app/",
     repoUrl: "https://github.com/MarcosBizzarri/Portfolio-Marcos-Bizzarri-React",
     description:
       "O projeto Portfólio é uma aplicação web desenvolvida em React.",
