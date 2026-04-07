@@ -7,10 +7,7 @@ export default function About() {
         </h2>
 
         <p className="text-base leading-8 text-gray-300 md:text-lg">
-          Sou desenvolvedor Front-end com foco em criar interfaces modernas,
-          responsivas e performáticas. Atuo principalmente com React, Next.js e
-          Tailwind CSS, buscando sempre código limpo, boa experiência do usuário
-          e soluções escaláveis.
+          Desenvolvedor Full Stack focado em aplicações modernas, performáticas e escaláveis, com experiência em React, Next.js, Node.js, Firebase e integração com APIs e IA.
         </p>
       </div>
     </section>
