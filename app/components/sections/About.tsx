@@ -7,7 +7,9 @@ export default function About() {
         </h2>
 
         <p className="text-base leading-8 text-gray-300 md:text-lg">
-          Desenvolvedor Full Stack focado em aplicações modernas, performáticas e escaláveis, com experiência em React, Next.js, Node.js, Firebase e integração com APIs e IA.
+          Sou Desenvolvedor Full Stack com experiência na criação de aplicações web modernas, performáticas e escaláveis.
+          Atuo tanto no front-end quanto no back-end, utilizando tecnologias como React, Next.js, Node.js, Firebase e integração com APIs e Inteligência Artificial.
+          Tenho foco em entregar soluções com ótima experiência do usuário, código limpo e arquitetura bem estruturada. Estou sempre buscando evoluir tecnicamente e construir projetos que gerem valor real.
         </p>
       </div>
     </section>
