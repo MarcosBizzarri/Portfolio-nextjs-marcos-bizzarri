@@ -24,8 +24,8 @@ export default function Hero() {
         </h2>
 
         <p className="mt-4 max-w-2xl text-base leading-7 text-gray-400 md:text-xl">
-          Desenvolvedor Frontend focado em interfaces modernas, performáticas e
-          experiências visuais marcantes com React, Next.js e Tailwind.
+          Desenvolvedor Full Stack focado em aplicações modernas, performáticas e escaláveis,
+          com experiência em React, Next.js, Node.js, Firebase e integração com APIs e IA.
         </p>
 
         <div className="mt-8 flex flex-wrap justify-center gap-4">
